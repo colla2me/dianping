@@ -1,0 +1,55 @@
+.index_sale_wrap{
+  .index_content{
+    display: flex;
+    .index_sale-item{
+      display: block;
+      width: 33%;
+      padding: 0 4px;
+      img{
+        display: block;
+        width: 100%;
+        border-radius: 2px;
+      }
+      .title{
+        margin-top: 8px;
+        color: #333;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+      .price{
+        position: relative;
+        padding-top: 6px;
+        line-height: 16px;
+        font-size: 0;
+        .price_cur{
+          margin-left: -3px;
+          color: #f63;
+          font-size: 16px;
+          text-decoration: none;
+        }
+        .price_old{
+          color: #bbb;
+          font-size: 12px;
+          margin-left: 4px;
+        }
+        .price_down{
+          position: absolute;
+          top: 5px;
+          max-width: 83px;
+          margin-left: -2px;
+          padding: 1px 5px 1px 3px;
+          overflow: hidden;
+          white-space: nowrap;
+          text-overflow: ellipsis;
+          text-decoration: none;
+          color: #f63;
+          font-size: 12px;
+          border-radius: 2px;
+          border: 1px solid #ff9470;
+          transform: scale(0.75);
+        }
+      }
+    }
+  }
+}

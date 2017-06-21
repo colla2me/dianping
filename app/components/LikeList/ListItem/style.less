@@ -1,0 +1,71 @@
+.index_like_content{
+  .index_like_item{
+    display: -webkit-box;
+    margin-left: 15px;
+    padding: 10px 10px 10px 0;
+    border-bottom: 1px solid #e2e2e2;
+
+    .pic{
+      position: relative;
+      padding-right: 10px;
+      font-size: 0;
+    }
+
+    .content{
+      flex: 1;
+      .shop_name{
+        color: #111;
+        font-size: 17px;
+        font-weight: 700;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+      .shop_name_sub{
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        padding: 9px 0 13px;
+        color: #777;
+        font-size: 13px;
+      }
+      .price{
+        display: flex;
+        justify-content: space-between;
+        height: 22px;
+        line-height: 22px;
+        font-size: 13px;
+        color: #777;
+        .price_cur{
+          color: #f63;
+          font-size: 21px;
+          font-weight: 700;
+          text-decoration: none;
+        }
+        .price_old{
+          margin-left: 5px; 
+          vertical-align: 2px;
+        }
+        .sale_desc{
+          text-align: right;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+        }
+      }
+
+      .rec_reason{
+        display: inline-block;
+        padding: 2px 8px;
+        margin-top: 10px;
+        max-width: 240px;
+        color: #f63;
+        font-size: 12px;
+        background-color: #ffefea;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+.detail-head{
+  position: relative;
+  padding: 0 10px;
+  height: 45px;
+  line-height: 45px;
+  z-index: 99;
+  color: #333;
+  background-color: #f0f0f0;
+  .back{
+    position: absolute;
+    padding-left: 15px;
+    color: #333;
+    &::before{
+      content: '';
+      position: absolute;
+      top: 50%;
+      left: 0;
+      margin-top: -7px;
+      width: 14px;
+      height: 14px;
+      border: 2px solid #646464;
+      border-top: none;
+      border-right: none;
+      transform: rotate(45deg)
+    }
+  }
+  .title{
+    color: #333;
+    font-size: 16px;
+    text-align: center;
+  }
+}

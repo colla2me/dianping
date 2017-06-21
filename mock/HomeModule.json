@@ -1,0 +1,432 @@
+{
+  "headline": {
+    "data": {
+      "list": [{
+        "type": "0",
+        "picCount": "9",
+        "title": "精选专题：老司机教你的事",
+        "url": "https://h5.dianping.com/app/h5-ranklist-static/list_nearby.html?collectionId=90&source=weixinM",
+        "pic": "https://p0.meituan.net/gpa/61eb0d0708d308a50fb5362ffc360c0591263.jpg%40100w_100h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "poi": "",
+        "shopName": "",
+        "userPic": []
+      }, {
+        "type": "0",
+        "picCount": "55",
+        "title": "第一次总结这么全的肠粉帖子，30碗肠粉亮瞎你的味蕾！",
+        "url": "https://h5.dianping.com/app/h5-ranklist-static/list_nearby.html?headlineId=50719&source=weixinM",
+        "pic": "https://p1.meituan.net/gpa/8ade58e94aa7a0a47810db5d57c9d9a566194.jpg%40100w_100h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "poi": "",
+        "shopName": "",
+        "userPic": []
+      }, {
+        "type": "0",
+        "picCount": "13",
+        "title": "电影结束后，该解除海盗之魂的封印了！",
+        "url": "https://h5.dianping.com/app/h5-ranklist-static/list_nearby.html?headlineId=548769&source=weixinM",
+        "pic": "https://p0.meituan.net/gpa/d5ea9d0741d3b12c939a09e1f105b54d66675.jpg%40100w_100h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "poi": "",
+        "shopName": "",
+        "userPic": []
+      }, {
+        "type": "0",
+        "picCount": "16",
+        "title": "海珠区隐藏12元的哥饭堂！全靠这一碟蒜蓉酱油，天天挤到爆棚！",
+        "url": "https://h5.dianping.com/app/h5-ranklist-static/list_nearby.html?headlineId=548768&source=weixinM",
+        "pic": "https://p0.meituan.net/gpa/ef9c2a9198639b8a62e59c76d5718ab7100495.jpg%40100w_100h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "poi": "",
+        "shopName": "",
+        "userPic": []
+      }, {
+        "type": "0",
+        "picCount": "48",
+        "title": "没看过这份测评报告，别告诉我你喝过水！",
+        "url": "https://h5.dianping.com/app/h5-ranklist-static/list_nearby.html?headlineId=491340&source=weixinM",
+        "pic": "https://p1.meituan.net/poicontent/fde21d9deedb95ec0cacd6fa79594d7457669.jpg%40100w_100h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "poi": "",
+        "shopName": "",
+        "userPic": []
+      }]
+    }
+  },
+  "czth": {
+    "data": {
+      "preferenceValueHuiVos": [{
+        "dgId": "22673876",
+        "imageUrl": "//p0.meituan.net/deal/6efde6795faa03296542742daa377267384004.jpg%40120w_90h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "markPrice": "96.0",
+        "featureTitle": "仅售1元！价值96元的四人招牌跳跳蛙锅（2斤）1份，提供免费WiFi。",
+        "shortTitle": "517跳跳蛙·盛强汕头黄牛肉",
+        "price": "1.0",
+        "tag": ""
+      }, {
+        "dgId": "25516566",
+        "imageUrl": "//p1.meituan.net/deal/e29c200c0a4b238aea2c71562395245565265.jpg%40120w_90h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "markPrice": "38.0",
+        "featureTitle": "仅售1元！价值38元的古法酸菜鱼1份，提供免费WiFi。",
+        "shortTitle": "十里青丘小酒馆",
+        "price": "1.0",
+        "tag": ""
+      }, {
+        "dgId": "22868223",
+        "imageUrl": "//p0.meituan.net/deal/2357ecf4cdba98a916d6e84f2bcaff5118057.jpg%40120w_90h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "markPrice": "88.0",
+        "featureTitle": "仅售1元！价值88元的午市&宵夜锅底+位上糖水1元抢1份，提供免费WiFi。",
+        "shortTitle": "隴熙火锅",
+        "price": "1.0",
+        "tag": ""
+      }]
+    }
+  },
+  "ttlj": {
+    "data": {
+      "dayHuiVos": [{
+        "dgId": "17490044",
+        "imageUrl": "//p0.meituan.net/deal/0601b77c5bd609e7a4900b8056f6a5e5131397.jpg%40120w_90h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "markPrice": "239.0",
+        "featureTitle": "仅售108元！价值239元的八英寸迷糊娃娃蛋糕1个，约8英寸，圆。",
+        "shortTitle": "开心益点",
+        "price": "108.0",
+        "tag": "商家新客减20"
+      }, {
+        "dgId": "8140610",
+        "imageUrl": "//p1.meituan.net/deal/2f85b2d52a54488b369e858c05153ccd60070.jpg%40120w_90h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "markPrice": "30.0",
+        "featureTitle": "仅售26元！价值30元的现金券，全场通用，可叠加使用，提供免费WiFi。",
+        "shortTitle": "尚大咖啡烘焙",
+        "price": "26.0",
+        "tag": "立减4元"
+      }, {
+        "dgId": "18373242",
+        "imageUrl": "//p0.meituan.net/deal/52b3ab74c5693356d46495dcc1f4aa3652824.jpg%40120w_90h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D20%26y%3D20",
+        "markPrice": "88.0",
+        "featureTitle": "仅售68元！最高价值88元的部队火锅双人餐，可免费使用包间，提供免费WiFi。",
+        "shortTitle": "Thank u mom非油炸健康鸡",
+        "price": "68.0",
+        "tag": ""
+      }]
+    }
+  },
+  "cnxh": {
+    "data": {
+      "startNum": 1,
+      "overSea": false,
+      "totalNum": 264,
+      "searchQueryId": "31204a61-3edb-439e-86ac-5b8bcf6fc785",
+      "list": [{
+        "shopName": "空中一号",
+        "dealgroupid": "21033729",
+        "dealGroupTitle": "[珠江新城] 8人龙虾海鲜餐，提供免费WiFi",
+        "dealgroupPrice": "888",
+        "marketPrice": "1721",
+        "saleDesc": "",
+        "shopId": "",
+        "defaultPic": "https://p1.meituan.net/deal/59907eded5644631998d00b84fe48ead173935.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+        "item_type": "standard",
+        "distance": null,
+        "tgcurrentjoin": "2947",
+        "recreason": "革命家邓小平题的字",
+        "needpromocall": "true",
+        "tgrate": "1.0",
+        "pictag": {
+          "tag": "免预约",
+          "color": "#e5bf86"
+        },
+        "itemtag": {
+          "tag": "",
+          "color": "#FFF"
+        },
+        "promovalue": "",
+        "priceexplain": "",
+        "priceextrainfo": "",
+        "salesdesc": "已售2947",
+        "biz_id": "0",
+        "item_type_self": "tuan",
+        "schema": "https://m.dianping.com/tuan/deal/21033729",
+        "discountList": []
+      }, {
+        "shopName": "广州W酒店-稻菊日本餐厅",
+        "dealgroupid": "13142557",
+        "dealGroupTitle": "[珠江新城] 套餐2选1",
+        "dealgroupPrice": "198",
+        "marketPrice": "437",
+        "saleDesc": "",
+        "shopId": "",
+        "defaultPic": "https://p0.meituan.net/deal/e2ac5a4259d0b54b80431267f839ee3738238.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+        "item_type": "standard",
+        "distance": null,
+        "tgcurrentjoin": "1381",
+        "recreason": "广州年度十大奢华餐厅",
+        "needpromocall": "true",
+        "tgrate": "0.97",
+        "pictag": {
+          "tag": "",
+          "color": "#e5bf86"
+        },
+        "itemtag": {
+          "tag": "",
+          "color": "#FFF"
+        },
+        "promovalue": "",
+        "priceexplain": "",
+        "priceextrainfo": "",
+        "salesdesc": "已售1381",
+        "biz_id": "0",
+        "item_type_self": "tuan",
+        "schema": "https://m.dianping.com/tuan/deal/13142557",
+        "discountList": []
+      }, {
+        "shopName": "Pelicana百利家炸鸡",
+        "dealgroupid": "24934363",
+        "dealGroupTitle": "[6店通用] 菜品2选1，提供免费WiFi",
+        "dealgroupPrice": "6.9",
+        "marketPrice": "12",
+        "saleDesc": "",
+        "shopId": "",
+        "defaultPic": "https://p1.meituan.net/deal/a26a4b6853d7b5b8d6e2bf3fe516a3d182222.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+        "item_type": "standard",
+        "distance": null,
+        "tgcurrentjoin": "366",
+        "recreason": "广州口碑超赞的人气美食",
+        "needpromocall": "true",
+        "tgrate": "0.0",
+        "pictag": {
+          "tag": "免预约",
+          "color": "#e5bf86"
+        },
+        "itemtag": {
+          "tag": "",
+          "color": "#FFF"
+        },
+        "promovalue": "",
+        "priceexplain": "",
+        "priceextrainfo": "",
+        "salesdesc": "已售366",
+        "biz_id": "0",
+        "item_type_self": "tuan",
+        "schema": "https://m.dianping.com/tuan/deal/24934363",
+        "discountList": []
+      }, {
+        "shopName": "稻香酒家",
+        "dealgroupid": "25191521",
+        "dealGroupTitle": "[12店通用] 低至2.6折稻香欢聚套餐 ",
+        "dealgroupPrice": "99",
+        "marketPrice": "378",
+        "saleDesc": "",
+        "shopId": "",
+        "defaultPic": "https://p0.meituan.net/deal/8ecf5eb5478167b354a1b552aa6de82d201328.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+        "item_type": "standard",
+        "distance": null,
+        "tgcurrentjoin": "4244",
+        "recreason": null,
+        "needpromocall": "true",
+        "tgrate": "0.0",
+        "pictag": {
+          "tag": "免预约",
+          "color": "#e5bf86"
+        },
+        "itemtag": {
+          "tag": "",
+          "color": "#FFF"
+        },
+        "promovalue": "新客减12",
+        "priceexplain": "",
+        "priceextrainfo": "",
+        "salesdesc": "已售4244",
+        "biz_id": "0",
+        "item_type_self": "tuan",
+        "schema": "https://m.dianping.com/tuan/deal/25191521",
+        "discountList": [],
+        "discountTag": "新客减12"
+      }, {
+        "shopName": "质典贡茶",
+        "dealgroupid": "25491226",
+        "dealGroupTitle": "低至1.0折招牌冰爽奶茶5选1 ",
+        "dealgroupPrice": "1",
+        "marketPrice": "10",
+        "saleDesc": "",
+        "shopId": "",
+        "defaultPic": "https://p1.meituan.net/deal/9a0bc2bc722fca508c3dca9ccfbaa24a39299.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+        "item_type": "standard",
+        "distance": null,
+        "tgcurrentjoin": "41",
+        "recreason": null,
+        "needpromocall": "true",
+        "tgrate": "0.0",
+        "pictag": {
+          "tag": "免预约",
+          "color": "#e5bf86"
+        },
+        "itemtag": {
+          "tag": "",
+          "color": "#FFF"
+        },
+        "promovalue": "",
+        "priceexplain": "",
+        "priceextrainfo": "",
+        "salesdesc": "已售41",
+        "biz_id": "0",
+        "item_type_self": "tuan",
+        "schema": "https://m.dianping.com/tuan/deal/25491226",
+        "discountList": []
+      }, {
+        "shopName": "Mr.Fish鱼鲜生海鲜放题",
+        "dealgroupid": "21331716",
+        "dealGroupTitle": "[珠江新城] 午市海陆定食套餐2选1",
+        "dealgroupPrice": "48",
+        "marketPrice": "98",
+        "saleDesc": "",
+        "shopId": "",
+        "defaultPic": "https://p1.meituan.net/deal/aaf918bff849eeec596970b3678be5c541754.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+        "item_type": "standard",
+        "distance": null,
+        "tgcurrentjoin": "6164",
+        "recreason": null,
+        "needpromocall": "true",
+        "tgrate": "0.0",
+        "pictag": {
+          "tag": "免预约",
+          "color": "#e5bf86"
+        },
+        "itemtag": {
+          "tag": "",
+          "color": "#FFF"
+        },
+        "promovalue": "",
+        "priceexplain": "",
+        "priceextrainfo": "",
+        "salesdesc": "已售6164",
+        "biz_id": "0",
+        "item_type_self": "tuan",
+        "schema": "https://m.dianping.com/tuan/deal/21331716",
+        "discountList": []
+      }, {
+        "shopName": "最掂小龙虾",
+        "dealgroupid": "25075140",
+        "dealGroupTitle": "[五羊新城] 油焖手抓龙虾1份",
+        "dealgroupPrice": "1",
+        "marketPrice": "88",
+        "saleDesc": "",
+        "shopId": "",
+        "defaultPic": "https://p1.meituan.net/deal/9f733e7e937b25883d63050a826a79ae373850.png%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+        "item_type": "standard",
+        "distance": null,
+        "tgcurrentjoin": "316",
+        "recreason": null,
+        "needpromocall": "true",
+        "tgrate": "0.0",
+        "pictag": {
+          "tag": "免预约",
+          "color": "#e5bf86"
+        },
+        "itemtag": {
+          "tag": "",
+          "color": "#FFF"
+        },
+        "promovalue": "",
+        "priceexplain": "",
+        "priceextrainfo": "",
+        "salesdesc": "已售316",
+        "biz_id": "0",
+        "item_type_self": "tuan",
+        "schema": "https://m.dianping.com/tuan/deal/25075140",
+        "discountList": []
+      }, {
+        "shopName": "幸福西饼生日蛋糕",
+        "dealgroupid": "18681139",
+        "dealGroupTitle": "[11店通用] 四重奏蛋糕1个，约2磅，方形，“芒果茫茫+榴莲香雪+提拉米苏+黑森林”一次让您品尝四种不同口味！",
+        "dealgroupPrice": "148",
+        "marketPrice": "296",
+        "saleDesc": "",
+        "shopId": "",
+        "defaultPic": "https://p1.meituan.net/deal/6d8b3108eee16a715e97f4a04f206322282531.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+        "item_type": "standard",
+        "distance": null,
+        "tgcurrentjoin": "2208",
+        "recreason": null,
+        "needpromocall": "true",
+        "tgrate": "0.93",
+        "pictag": {
+          "tag": "",
+          "color": "#e5bf86"
+        },
+        "itemtag": {
+          "tag": "",
+          "color": "#FFF"
+        },
+        "promovalue": "新客减20",
+        "priceexplain": "",
+        "priceextrainfo": "",
+        "salesdesc": "已售2208",
+        "biz_id": "0",
+        "item_type_self": "tuan",
+        "schema": "https://m.dianping.com/tuan/deal/18681139",
+        "discountList": [],
+        "discountTag": "新客减20"
+      }, {
+        "shopName": "长藤鬼校(广州旗舰店)",
+        "dealgroupid": "19139472",
+        "dealGroupTitle": "[北京路] 单人恐怖体验票1张",
+        "dealgroupPrice": "77",
+        "marketPrice": "150",
+        "saleDesc": "",
+        "shopId": "",
+        "defaultPic": "https://p1.meituan.net/dpdeal/1dbf3f5243cd6d06e1be2c4329148ba51067233.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+        "item_type": "standard",
+        "distance": null,
+        "tgcurrentjoin": "3424",
+        "recreason": null,
+        "needpromocall": "true",
+        "tgrate": "0.97",
+        "pictag": {
+          "tag": "免预约",
+          "color": "#e5bf86"
+        },
+        "itemtag": {
+          "tag": "",
+          "color": "#FFF"
+        },
+        "promovalue": "",
+        "priceexplain": "",
+        "priceextrainfo": "",
+        "salesdesc": "已售3424",
+        "biz_id": "0",
+        "item_type_self": "tuan",
+        "schema": "https://m.dianping.com/tuan/deal/19139472",
+        "discountList": []
+      }, {
+        "shopName": "探鱼",
+        "dealgroupid": "21338917",
+        "dealGroupTitle": "[来又来/大润发] 凌波/海鲈鱼套餐，建议1-2人使用",
+        "dealgroupPrice": "183",
+        "marketPrice": "215",
+        "saleDesc": "",
+        "shopId": "",
+        "defaultPic": "https://p1.meituan.net/deal/c4eb9be3d4c300c0cb601c41208d0d1860678.jpg%40180w_180h_1e_1c_1l_80q%7Cwatermark%3D0",
+        "item_type": "standard",
+        "distance": null,
+        "tgcurrentjoin": "400",
+        "recreason": null,
+        "needpromocall": "true",
+        "tgrate": "0.0",
+        "pictag": {
+          "tag": "免预约",
+          "color": "#e5bf86"
+        },
+        "itemtag": {
+          "tag": "",
+          "color": "#FFF"
+        },
+        "promovalue": "",
+        "priceexplain": "",
+        "priceextrainfo": "",
+        "salesdesc": "已售400",
+        "biz_id": "0",
+        "item_type_self": "tuan",
+        "schema": "https://m.dianping.com/tuan/deal/21338917",
+        "discountList": []
+      }],
+      "mainwelfareUrl": "https://link.dianping.com/universal-link?originalUrl=http%3A%2F%2Fevt.dianping.com%2Fsynthesislink%2F10765.html&schema=dianping%3A%2F%2Fweb%3Furl%3Dhttps%253A%252F%252Fh5.dianping.com%252Fapp%252Fdaily-benefits%252Fstatic%252Findex.html%2523%252Findex%253Futm_source%253DMcnxh"
+    }
+  }
+}

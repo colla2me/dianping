@@ -1,0 +1,111 @@
+.group-info{
+  background-color: #fff;
+}
+
+.slider{
+  position: relative;
+  overflow: hidden;
+  .swipe-page-ctrl{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    line-height: 9px;
+    font-size: 9px;
+    border-radius: 10px;
+    text-align: center;
+    color: #ccc;
+    padding: 5px 3px;
+    background-color: rgba(0,0,0,0.4);
+    .swipe-page{
+      color: #fff;
+      font-weight: 400;
+    }
+  }
+
+  .swipe-page-desc{
+    position: absolute;
+    z-index: 99;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px 15px;
+    background: -webkit-gradient(linear,0 0,0 100%,from(rgba(0,0,0,0)),to(rgba(0,0,0,.6)));
+    color: #fff;
+    h3{
+      color: #fff;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 18px;
+      margin-bottom: 3px;
+    }
+    p{
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      font-size: 12px;
+      line-height: 14px;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+    }
+  }
+}
+
+.group-buy{
+  padding-left: 15px;
+  background-color: #fff;
+  .buy-box{
+    height: 50px;
+    line-height: 50px;
+    border-bottom: 1px solid #e2e2e2;
+    .price{
+      margin-right: 5px;
+      font-size: 21px;
+      color: #f63;
+      .price-num{
+        font-size: 30px;
+      }
+    }
+    .price-old{
+      color: #8c8c8c;
+      font-size: 12px;
+      margin-bottom: 4px;
+    }
+    .buy-btn{
+      float: right;
+      display: block;
+      height: 34px;
+      line-height: 34px;
+      width: 105px;
+      font-size: 16px;
+      background-color: #f63;
+      margin: 8px 10px 0 0;
+      text-align: center;
+      color: #fff;
+      border-radius: 5px;
+    }
+  }
+  .advantage{
+    overflow: hidden;
+    height: 45px;
+    line-height: 45px;
+    color: #666;
+    span{
+      float: left;
+      width: 50%;
+      i{
+        display: inline-block;
+        vertical-align: sub;
+        height: 18px;
+        width: 18px;
+        margin-right: 5px;
+        background-image: url('../../static/img/comm.png');
+        background-size: 25px auto;
+        background-position: 0 -275px;
+        &.outdated{
+          background-position: 0 -296px;
+        }
+      }
+    } 
+  }
+}
